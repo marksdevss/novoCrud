@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/conexao/ConexaoGame.java</file>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/views/TelaEstoque.java</file>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/dao/EstoqueDAO.java</file>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/views/TelaLogin.java</file>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/model/EstoqueModel.java</file>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/model/GameModel.java</file>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/views/TelaAdm.java</file>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/model/GerenteModel.java</file>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/dao/GameDAO.java</file>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/dao/login/LoginGerenteDAO.java</file>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/views/TelaCadastro.java</file>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/views/TelaPrincipalFuncionario.java</file>
+            <file>file:/C:/Users/chxse/OneDrive/Documentos/NetBeansProjects/novoCrud-master/novoCrud-master/GameZone/src/br/com/gamezone/model/AdministradorModel.java</file>
+        </group>
+    </open-files>
+</project-private>
